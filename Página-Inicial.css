@@ -22,7 +22,7 @@
 }
 
 .u-section-1 .u-repeater-1 {
-  grid-template-columns: calc(20% - 12.5px) calc(20% - 12.5px) calc(20% - 12.5px) calc(20% - 12.5px) calc(20% - 12.5px);
+  grid-template-columns: calc(25% - 25px) calc(25% - 25px) calc(25% - 25px) calc(25% - 25px);
   min-height: 468px;
   grid-gap: 15px 15px;
 }
